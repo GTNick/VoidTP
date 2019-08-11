@@ -1,1 +1,6 @@
-
+name: VoidTP
+version: 1.0.0
+author: Elxctronick
+description: when you hit void you will tp
+api: 3.1.0
+main: VoidTP\Main
