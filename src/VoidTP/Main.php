@@ -1,5 +1,6 @@
 <?php
-namespace InstantKillVoid;
+namespace VoidTP\Main;
+
 use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat;
