@@ -1,5 +1,5 @@
 <?php
-namespace VoidTP\Main;
+namespace ELX\Main;
 
 use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
